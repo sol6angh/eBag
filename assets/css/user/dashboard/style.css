@@ -1,0 +1,53 @@
+a{
+    color: white;
+}
+
+h3 a{
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #ff9700;
+}
+
+header{
+    background-color: #333;
+    padding: 5px;
+}
+
+footer {
+    background-color: #333;
+    text-align: center;
+    padding: 25px;
+  }
+
+  .sidebar{
+    background-color: #EBEDEF;
+    width: 21%;
+    padding-top: 12px;
+    padding-bottom: 192px;
+    float: left;
+}
+
+.sidebar-list{
+    list-style: none;
+    
+}
+
+.sidebar-list li{
+    text-align: center;
+    margin-right: 40px;
+    font-size: 18px;
+    
+}
+
+.sidebar-list li a{
+    color: black;
+}
+
+.contents{
+    width: 79%;
+    float: right;
+    padding-bottom: 52px;
+}
