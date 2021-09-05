@@ -7,8 +7,11 @@ This project presented as senior project at college, and it is the first version
 Developed in Codeigniter Framework
  
 Notice before start
+
 1- Create a database with this exact name (my e-bag).
+
 2- Import database file into (xampp mysql) or (mysql workbench).
+
 3- I used xampp mail server for (sending mail) function for (validation.php page) with my configurations, which is not work with you and you will not get an email about secure code instead of that take the secure code column in (users table) from the databse direct.
 
 
